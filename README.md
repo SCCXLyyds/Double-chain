@@ -1,4 +1,4 @@
-# Double-chain
+# Double-chain (simulation of array)
 Data structure and algorithm
 
 题目：
